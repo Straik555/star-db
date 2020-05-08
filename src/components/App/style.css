@@ -1,0 +1,16 @@
+.stardb-app{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.col-md-6{
+    padding: 0;
+}
+.button-row{
+    margin-left: 1rem;
+}
+.toggle-planet{
+    margin-right: 1rem;
+}
+h2{
+    text-align: center;
+}
